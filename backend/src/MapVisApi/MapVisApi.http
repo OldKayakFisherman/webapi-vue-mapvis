@@ -1,0 +1,6 @@
+@MapVisApi_HostAddress = http://localhost:5025
+
+GET {{MapVisApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
